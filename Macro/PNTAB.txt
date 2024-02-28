@@ -1,0 +1,8 @@
+COMPUTE
+first
+second
+third
+INCR_D
+MEM_VAL
+INCR_VAL
+REG
