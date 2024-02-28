@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+H:\TE codes\31322 DBMSL\.metadata\.plugins\org.eclipse.jdt.core
+2106677765.index
+2576123400.index
+1865797976.index
